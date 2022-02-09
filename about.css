@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+}
+#a2 h1{
+    text-decoration: underline;
+    text-transform: capitalize;
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    padding: 20px;
+    border: 2px dotted white;
+    border: radius 11px;
+    width: 100%;
+    align-items: center;
+    margin: 0px;
+}
+.table table{
+    padding: 20px;
+    background-color: brown;
+    color: white;
+}
+.table table tr td {
+    padding: 20px;
+    background-color: brown;
+    color: white;
+}
